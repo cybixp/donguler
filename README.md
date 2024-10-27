@@ -15,4 +15,7 @@ For ve While döngüleri bize kodu yazmakta büyük yardım eder ve birçok algo
 
 ## C++ ve Pythonda döngü kodlama
 ![Logo](https://github.com/user-attachments/assets/c760200e-c8e6-48cf-b18c-cc126fdede5c)
+
+
+
 [Python](dongu.py)
