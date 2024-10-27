@@ -12,5 +12,6 @@ Döngüleri bir kodu birçok kez baştan yazıp yorulmamak için kullanırız. B
 For ve While döngüleri bize kodu yazmakta büyük yardım eder ve birçok algoritma oluşturmamızı sağlar (*Örnek:* İç içe for döngüleri)
 
 ## C++ ve Pythonda döngü kodlama
-[pitoncpp](https://github.com/user-attachments/assets/c4e9dc7b-e4f3-4383-86a2-860ae763c159)
+![Logo](https://github.com/user-attachments/assets/c760200e-c8e6-48cf-b18c-cc126fdede5c)
+
 
